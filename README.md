@@ -1,2 +1,2 @@
 # META-CAPSTONE-PROJECT_LIGORI
-This is meta capstone project done by me
+This is meta capstone project done by me --- BOOKING A TABLE ON THE LITTLE LEMON WEBSITE
